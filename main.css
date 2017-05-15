@@ -1,4 +1,15 @@
-body {
-  background-color: red;
-  font-family: sans-serif;
+#display {
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+#quote {
+  font-size: 22px;
+  font-weight: initial;
+  font: small-caption
+}
+#btn {
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
 }
